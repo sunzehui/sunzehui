@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![code day day up](https://wakatime.com/share/@sunzehui/0d882b10-38fd-436f-9ebe-62bd7ea77fef.png)
+<img src="https://wakatime.com/share/@sunzehui/012f2e28-a8c4-4933-9092-4a38cffae3c6.svg"></img>
