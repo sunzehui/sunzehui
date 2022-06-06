@@ -1,2 +1,4 @@
 ### Hi there 👋
-<figure><embed src="https://wakatime.com/share/@sunzehui/6dea3b13-d0f2-4083-9907-a8a1a5b351eb.svg"></embed></figure>
+
+.. image:: https://wakatime.com/share/@sunzehui/0d882b10-38fd-436f-9ebe-62bd7ea77fef.png
+    :target: https://wakatime.com/
